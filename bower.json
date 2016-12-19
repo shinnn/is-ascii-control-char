@@ -1,0 +1,36 @@
+{
+  "name": "is-ascii-control-char",
+  "description": "Check if a given value is one of the ASCII control characters",
+  "keywords": [
+    "ascii",
+    "string",
+    "code",
+    "char",
+    "character",
+    "control",
+    "control-character",
+    "check",
+    "test"
+  ],
+  "main": "module.js",
+  "moduleType": "es6",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shinnn/is-ascii-control-char.git"
+  },
+  "authors": [
+    "Shinnosuke Watanabe (https://github.com/shinnn)"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "is-ascii-control-char-code": "^1.0.0"
+  },
+  "ignore": [
+    "**/.*",
+    "*.js",
+    "*.json",
+    "*.yml",
+    "coverage",
+    "node_modules"
+  ]
+}
