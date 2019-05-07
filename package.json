@@ -1,6 +1,6 @@
 {
   "name": "is-ascii-control-char",
-  "version": "1.0.0",
+  "version": "2.0.0-0",
   "description": "Check if a given value is one of the ASCII control characters",
   "repository": "shinnn/is-ascii-control-char-code",
   "author": "Shinnosuke Watanabe (https://github.com/shinnn)",
